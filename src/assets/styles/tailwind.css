@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .p-page {
+    @apply px-[8vw] mobile:px-[3vw];
+  }
+}

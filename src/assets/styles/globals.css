@@ -1,0 +1,20 @@
+.gradient1 {
+  position: absolute;
+  width: 628px;
+  height: 628px;
+  left: calc(50% - 628px / 2 - 255px);
+  top: -397px;
+  background: #9090dc;
+  opacity: 0.5;
+  filter: blur(162px);
+}
+
+.gradient2 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: calc(50% - 628px / 2 + 700px);
+  top: 90vh;
+  background: rgba(170, 217, 217, 0.6);
+  filter: blur(162px);
+}

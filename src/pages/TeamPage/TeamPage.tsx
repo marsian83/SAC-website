@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import useCache from "../../contexts/cacheContext";
 import useFetch from "../../hooks/useFetch";
-import { Team } from "../../interfaces/Data";
+import { Event, Team } from "../../interfaces/Data";
 
 export default function TeamPage() {
   const [showingTeam, setShowingTeam] = useState(0);
@@ -12,6 +12,7 @@ export default function TeamPage() {
   // const cache = useCache();
   // const teams = cache.getTeams();
   const [teams] = useFetch<Team[]>("/teams.json");
+  const [events] = useFetch<Event[]>("/events.json");
 
   useEffect(() => {
     if (teams && teams.length) {
@@ -49,7 +50,15 @@ export default function TeamPage() {
             </div>
             {showingTeamData && (
               <div className="flex flex-col gap-y-10">
-                <div className="flex justify-center p-page gap-x-20 py-16">
+                <div className="flex flex-col items-center py-16 p-page">
+                  <h2 className="text-5xl font-semibold drop-shadow-lg italic">
+                    {showingTeamData.name}
+                  </h2>
+                  <p className="mt-8 text-xl text-center font-extralight px-12">
+                    {showingTeamData.description}
+                  </p>
+                </div>
+                <div className="flex justify-center p-page gap-x-20">
                   {showingTeamData.faculty.map((faculty) => (
                     <Link
                       to={faculty.link}
@@ -70,7 +79,7 @@ export default function TeamPage() {
                     </Link>
                   ))}
                 </div>
-                <div className="flex flex-wrap gap-x-32 p-page">
+                <div className="flex flex-wrap gap-x-32 justify-center py-10 p-page">
                   {showingTeamData.people.map((person) => (
                     <Link
                       to={person.link}
@@ -89,7 +98,31 @@ export default function TeamPage() {
                     </Link>
                   ))}
                 </div>
-                <div className=""></div>
+                <h1 className="text-center pt-3 pb-6 font-semibold text-5xl text-secondary">
+                  Events
+                </h1>
+                <div className="flex-wrap p-page flex gap-x-5 justify-center">
+                  {events &&
+                    events
+                      .filter((event) =>
+                        showingTeamData.events.includes(event.id)
+                      )
+                      .map((event) => (
+                        <Link
+                          to={`/events/${event.id}`}
+                          key={event.id}
+                          className="w-[32%] aspect-video rounded-2xl gap-y-8 shadow shadow-secondary bg-center bg-cover text-center flex flex-col items-center justify-between"
+                          style={{
+                            backgroundImage: `linear-gradient(to bottom, transparent, #000000d5), url('${event.imageUrl}')`,
+                          }}
+                        >
+                          <div />
+                          <h5 className="text-xl font-semibold font-mono tracking-wide">
+                            {event.title}
+                          </h5>
+                        </Link>
+                      ))}
+                </div>
               </div>
             )}
           </div>

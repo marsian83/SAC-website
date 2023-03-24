@@ -20,7 +20,7 @@ export function CacheProvider({ children }: { children: ReactNode }) {
   const [eventsLoading, setEventsLoading] = useState(true);
 
   function getTeams() {
-    if (!teams || !teams.length) {
+    if (!(teams && teams.length)) {
       const [data, loading] = useFetch<Team[]>("/teams.json", [], () => {
         setTeams(data);
         setTeamsLoading(loading);
@@ -38,7 +38,7 @@ export function CacheProvider({ children }: { children: ReactNode }) {
   }
 
   function getEvents() {
-    if (!events || !events.length) {
+    if (!(events && events.length)) {
       const [data, loading] = useFetch<Event[]>("/events.json", [], () => {
         setEvents(data);
         setEventsLoading(loading);

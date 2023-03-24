@@ -40,7 +40,10 @@ export default function Navbar() {
       </Link>
       <div className="flex flex-row gap-16 text-xl items-center font-extralight">
         {navLinks.map((item) => (
-          <NavLink to={item.link}> {item.title} </NavLink>
+          <NavLink to={item.link} key={navLinks.indexOf(item)}>
+            {" "}
+            {item.title}{" "}
+          </NavLink>
         ))}
       </div>
     </div>

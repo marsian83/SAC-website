@@ -37,7 +37,7 @@ export default function LandingPage() {
           <img
             src="https://www.iiitm.ac.in/images/demo/teachers/1650440085_Prof.-Sri-Niwas-Singh.jpg"
             alt="SNS"
-            className="rounded-full border-2 border-yellow-500 w-48 aspect-square"
+            className="rounded-full border-2 border-gold w-48 aspect-square"
           />
           <p className="font-light text-xl">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
@@ -47,6 +47,7 @@ export default function LandingPage() {
             Laboriosam perspiciatis ipsam rerum beatae, fugiat eligendi est
             consectetur repellendus quis nobis. Doloribus ut voluptatibus
             temporibus voluptatum! Lorem ipsum dolor sit amet consectetur
+            <p className="text-right p-2 italic">~ Prof. Sri Nivas Singh</p>
           </p>
         </div>
       </section>

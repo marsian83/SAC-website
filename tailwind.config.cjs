@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#ef4e52",
+        primary: "#66725d",
         secondary: "#9090DC",
         tertiary: "#aad9d9",
         background: "#000235",
@@ -12,6 +12,7 @@ module.exports = {
         front: "#ffffff",
         back: "#000000",
         mute: "#3d3e48",
+        gold: "#FFD700",
       },
       transitionDuration: {
         inherit: "inherit",

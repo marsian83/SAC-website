@@ -36,5 +36,43 @@
       }
     ],
     "events": [0, 1]
+  },
+  {
+    "id": 1,
+    "name": "SAC tuktuk",
+    "description": "sac techincal bahut kaam karta hai baki koi sAC kam nai karta isi lie hume paisa do baki sab ko paisa dene ki garaj nai hai, ye humara description hai, welcome and thank you, sorry please, bye .",
+    "faculty": [
+      {
+        "name": "KK Patnaik",
+        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1650440085_Prof.-Sri-Niwas-Singh.jpg",
+        "link": "youtube.com"
+      },
+      {
+        "name": "Sunil Kumar",
+        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1650440085_Prof.-Sri-Niwas-Singh.jpg",
+        "link": "youtube.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Spandan Barve",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPFHU_3arLI6xUF1NJsS5zUO_Voet3o6zcLjMLkXGuA&s",
+        "position": "president",
+        "link": "linkedin.com/marsian83"
+      },
+      {
+        "name": "Spandan Barve",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPFHU_3arLI6xUF1NJsS5zUO_Voet3o6zcLjMLkXGuA&s",
+        "position": "member",
+        "link": "linkedin.com/marsian83"
+      },
+      {
+        "name": "Spandan Barve",
+        "position": "fan",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPFHU_3arLI6xUF1NJsS5zUO_Voet3o6zcLjMLkXGuA&s",
+        "link": "linkedin.com/marsian83"
+      }
+    ],
+    "events": [0, 1]
   }
 ]

@@ -2,17 +2,79 @@
   {
     "id": 0,
     "name": "SAC Technical",
-    "description": "sac techincal bahut kaam karta hai baki koi sAC kam nai karta isi lie hume paisa do baki sab ko paisa dene ki garaj nai hai, ye humara description hai, welcome and thank you, sorry please, bye .",
+    "description": "The SAC Technical branch at ABV-IIITM Gwalior not only organizes various technical events such as coding competitions and hackathons but also conducts workshops and seminars on emerging technologies to provide students with hands-on experience and exposure. These events enable students to interact with experts in the field, learn from their experiences and gain practical knowledge to enhance their technical skills. The workshops and seminars organized by SAC Technical play a crucial role in promoting technical education and research on campus and prepare students to tackle real-world challenges.",
     "faculty": [
       {
-        "name": "KK Patnaik",
-        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1650440085_Prof.-Sri-Niwas-Singh.jpg",
-        "link": "https://youtube.com"
+        "name": "Dr. K.K. Pattanaik",
+        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1679281910_KKPattanaik%20(2).jpg",
+        "link": "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Dr.KKPattanaik"
       },
       {
-        "name": "Sunil Kumar",
-        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1650440085_Prof.-Sri-Niwas-Singh.jpg",
-        "link": "youtube.com"
+        "name": "Dr. Sunil Kumar",
+        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1677819537_SNK.png",
+        "link": "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Dr.SunilKumar"
+      }
+    ],
+    "people": [
+      {
+        "name": "Kailash Kejriwal",
+        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQEc2-Q8HGljpA/profile-displayphoto-shrink_400_400/0/1675799465090?e=1684972800&v=beta&t=WH4f105j6XV4c2j8vkgD_hRMGOvl37BFs3aVmCDvdnc",
+        "position": "Secretary",
+        "link": "https://www.linkedin.com/in/kailash360/"
+      },
+      {
+        "name": "Viral Verma",
+        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQH5rGsUUyHuZA/profile-displayphoto-shrink_400_400/0/1673865500514?e=1684972800&v=beta&t=3V_xruWG9nrmFkP14yd1tEaX3hlRDamuqYfvhVnp-iQ",
+        "position": "Joint Secretary",
+        "link": "https://www.linkedin.com/in/viral-verma-5362b4236/"
+      },
+      {
+        "name": "Riya Jain",
+        "imageUrl": "https://media.licdn.com/dms/image/C4E03AQFMEXk0JVia8g/profile-displayphoto-shrink_400_400/0/1641728731002?e=1684972800&v=beta&t=2EzLseGeyD7CEpY0BoBQs9UQC713ssjb8KApdobR9Qk",
+        "position": "Member",
+        "link": "https://www.linkedin.com/in/jriyyya/"
+      },
+      {
+        "name": "Spandan Barve",
+        "imageUrl": "https://media.licdn.com/dms/image/C4D03AQG1-GJ7bGHduA/profile-displayphoto-shrink_400_400/0/1662200911180?e=1684972800&v=beta&t=VJmRQYXZlRPNm77veDzfEf6A2HCQiAQgwvcAa1fvOhE",
+        "position": "Member",
+        "link": "https://www.linkedin.com/in/marsian83/"
+      },
+      {
+        "name": "Khushi Sachan",
+        "imageUrl": "https://media.licdn.com/dms/image/D5603AQGLRwGvaQ86cA/profile-displayphoto-shrink_400_400/0/1674149800185?e=1684972800&v=beta&t=KnKoryqfN-2j0y_698tUHTqhrysgicNzVf5aVD27WzI",
+        "position": "Member",
+        "link": "https://www.linkedin.com/in/khushisachan/"
+      },
+      {
+        "name": "Siddhi Agrawal",
+        "imageUrl": "https://media.licdn.com/dms/image/C5603AQE7QNg8GeW8lg/profile-displayphoto-shrink_400_400/0/1648214713220?e=1684972800&v=beta&t=HexegDSYxeW0JpxEwADxNSRD9aZY8ioJNhCt-bOGnM0",
+        "position": "Member",
+        "link": "https://www.linkedin.com/in/siddhi-agrawal-8128a9235/"
+      },
+      {
+        "name": "Abhinav Gupta",
+        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQEUa2SiFZKE1A/profile-displayphoto-shrink_800_800/0/1673957543413?e=1684972800&v=beta&t=WdvqO04oer1CkDeFRQnK_yu3rmqeWH4fTwn4VNz-zxI",
+        "position": "Member",
+        "link": "https://www.linkedin.com/in/abhinav-gupta-30b494232/"
+      }
+    ],
+    "events": [0, 1]
+  },
+  {
+    "id": 1,
+    "name": "SAC Cultural",
+    "description": "SAC Cultural is the Student Activity Council for Cultural Events at ABV-IIITM in Gwalior, India, with faculty coordinators Dr. Somesh Kumar and Dr. Arun Kumar. The council organizes a range of cultural activities throughout the academic year, including dance competitions, music concerts, and drama performances. SAC Cultural promotes cultural awareness and diversity among students, contributing to the vibrant campus life at ABV-IIITM. With the support and guidance of the faculty coordinators, students can participate in and enjoy a variety of cultural events and activities.",
+    "faculty": [
+      {
+        "name": "Dr. Somesh Kumar",
+        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1562157064_IMG_20190703_092943681_HDR.jpg",
+        "link": "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Dr.Somesh"
+      },
+      {
+        "name": "Dr. Arun Kumar",
+        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1661250093_final%20pic.jpg",
+        "link": "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Dr.ArunKumar"
       }
     ],
     "people": [
@@ -38,19 +100,57 @@
     "events": [0, 1]
   },
   {
-    "id": 1,
-    "name": "SAC tuktuk",
-    "description": "sac techincal bahut kaam karta hai baki koi sAC kam nai karta isi lie hume paisa do baki sab ko paisa dene ki garaj nai hai, ye humara description hai, welcome and thank you, sorry please, bye .",
+    "id": 2,
+    "name": "SAC Welfare",
+    "description": "Ok",
     "faculty": [
       {
-        "name": "KK Patnaik",
-        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1650440085_Prof.-Sri-Niwas-Singh.jpg",
-        "link": "youtube.com"
+        "name": "Dr. Manoj Kumar Das",
+        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1669281255_dr%20manoj%20Dash.jpg",
+        "link": "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/drmanojdash"
       },
       {
-        "name": "Sunil Kumar",
-        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1650440085_Prof.-Sri-Niwas-Singh.jpg",
-        "link": "youtube.com"
+        "name": "Dr. Pinku Ranjan",
+        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1668597418_DSC_1271.JPG",
+        "link": "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Dr.PINKURANJAN"
+      }
+    ],
+    "people": [
+      {
+        "name": "Spandan Barve",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPFHU_3arLI6xUF1NJsS5zUO_Voet3o6zcLjMLkXGuA&s",
+        "position": "president",
+        "link": "linkedin.com/marsian83"
+      },
+      {
+        "name": "Spandan Barve",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPFHU_3arLI6xUF1NJsS5zUO_Voet3o6zcLjMLkXGuA&s",
+        "position": "member",
+        "link": "linkedin.com/marsian83"
+      },
+      {
+        "name": "Spandan Barve",
+        "position": "fan",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPFHU_3arLI6xUF1NJsS5zUO_Voet3o6zcLjMLkXGuA&s",
+        "link": "linkedin.com/marsian83"
+      }
+    ],
+    "events": [0, 1]
+  },
+  {
+    "id": 3,
+    "name": "SAC Sports",
+    "description": "The SAC Sports branch at ABV-IIITM Gwalior, guided by faculty co-ordinators Dr Jeevaraj S and Dr Ajay Kumar, focuses on organizing sports events and encourages students to participate in sports activities for their physical and mental well-being. The branch provides a platform for students to showcase their talents in sports and fosters a culture of fitness and healthy living. SAC Sports also conducts various workshops and seminars on sports-related topics to enhance students' knowledge and skills. These events help students develop leadership qualities and team spirit. The SAC Sports branch plays a vital role in promoting sports and recreational activities on campus.",
+    "faculty": [
+      {
+        "name": "Dr. Ajay Kumar",
+        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1533542739_drajaykumar.jpg",
+        "link": "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Dr.AjayKumar"
+      },
+      {
+        "name": "Dr. Santosh Singh Rathore",
+        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1601567414_IMG_20201001_171900.jpg",
+        "link": "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Dr.SantoshSinghRathore"
       }
     ],
     "people": [

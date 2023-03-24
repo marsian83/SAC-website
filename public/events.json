@@ -12,7 +12,18 @@
   },
   {
     "id": 1,
-    "title": "Infotsav",
+    "title": "technoevent",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam perspiciatis ipsam rerum beatae, fugiat eligendi est consectetur repellendus quis nobis. Doloribus ut voluptatibus temporibusvoluptatum! Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam perspiciatis ipsam rerum beatae, fugiat eligendi est consectetur repellendus quis nobis. Doloribus ut voluptatibus temporibus voluptatum! Lorem ipsum dolor sit amet consectetur",
+    "imageUrl": "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg",
+    "gallery": [
+      "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg",
+      "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg",
+      "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "spiasdadn",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam perspiciatis ipsam rerum beatae, fugiat eligendi est consectetur repellendus quis nobis. Doloribus ut voluptatibus temporibusvoluptatum! Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam perspiciatis ipsam rerum beatae, fugiat eligendi est consectetur repellendus quis nobis. Doloribus ut voluptatibus temporibus voluptatum! Lorem ipsum dolor sit amet consectetur",
     "imageUrl": "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg",
     "gallery": [

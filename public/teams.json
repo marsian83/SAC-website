@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "SAC Technical",
-    "description": "The SAC Technical branch at ABV-IIITM Gwalior not only organizes various technical events such as coding competitions and hackathons but also conducts workshops and seminars on emerging technologies to provide students with hands-on experience and exposure. These events enable students to interact with experts in the field, learn from their experiences and gain practical knowledge to enhance their technical skills. The workshops and seminars organized by SAC Technical play a crucial role in promoting technical education and research on campus and prepare students to tackle real-world challenges.",
+    "description": "The SAC Technical branch at ABV-IIITM Gwalior not only organizes various technical events such as coding competitions and hackathons but also conducts workshops and seminars on emerging technologies to provide students with hands-on experience and exposure. These events enable students to interact with experts in the field, learn from their experiences and gain practical knowledge to enhance their technical skills. The workshops and seminars organized by SAC Technical play a crucial role in promoting technical education and research on campus and prepare students to tackle real-world challenges.",
     "faculty": [
       {
         "name": "Dr. K.K. Pattanaik",
@@ -102,8 +102,8 @@
   },
   {
     "id": 2,
-    "name": "SAC Welfare",
-    "description": "Ok",
+    "name": "SAC Cultural",
+    "description": "SAC Cultural is the Student Activity Council for Cultural Events at ABV-IIITM in Gwalior, India, with faculty coordinators Dr. Somesh Kumar and Dr. Arun Kumar. The council organizes a range of cultural activities throughout the academic year, including dance competitions, music concerts, and drama performances. SAC Cultural promotes cultural awareness and diversity among students, contributing to the vibrant campus life at ABV-IIITM. With the support and guidance of the faculty coordinators, students can participate in and enjoy a variety of cultural events and activities.",
     "faculty": [
       {
         "name": "Dr. Manoj Kumar Das",

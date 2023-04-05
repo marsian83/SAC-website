@@ -2,7 +2,7 @@
   {
     "id": 0,
     "name": "SAC Technical",
-    "description": "The SAC Technical branch at ABV-IIITM Gwalior not only organizes various technical events such as coding competitions and hackathons but also conducts workshops and seminars on emerging technologies to provide students with hands-on experience and exposure. These events enable students to interact with experts in the field, learn from their experiences and gain practical knowledge to enhance their technical skills. The workshops and seminars organized by SAC Technical play a crucial role in promoting technical education and research on campus and prepare students to tackle real-world challenges.",
+    "description": "The SAC Technical branch at ABV-IIITM Gwalior not only organizes various technical events such as coding competitions and hackathons but also conducts workshops and seminars on emerging technologies to provide students with hands-on experience and exposure. These events enable students to interact with experts in the field, learn from their experiences and gain practical knowledge to enhance their technical skills. The workshops and seminars organized by SAC Technical play a crucial role in promoting technical education and research on campus and prepare students to tackle real-world challenges.",
     "faculty": [
       {
         "name": "Dr. K.K. Pattanaik",
@@ -18,43 +18,44 @@
     "people": [
       {
         "name": "Kailash Kejriwal",
-        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQEc2-Q8HGljpA/profile-displayphoto-shrink_400_400/0/1675799465090?e=1684972800&v=beta&t=WH4f105j6XV4c2j8vkgD_hRMGOvl37BFs3aVmCDvdnc",
+        "imageUrl": "/images/people/technical/kailash.jpeg",
         "position": "Secretary",
+        "email": "",
         "link": "https://www.linkedin.com/in/kailash360/"
       },
       {
         "name": "Viral Verma",
-        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQH5rGsUUyHuZA/profile-displayphoto-shrink_400_400/0/1673865500514?e=1684972800&v=beta&t=3V_xruWG9nrmFkP14yd1tEaX3hlRDamuqYfvhVnp-iQ",
+        "imageUrl": "/images/people/technical/viral.jpeg",
         "position": "Joint Secretary",
         "link": "https://www.linkedin.com/in/viral-verma-5362b4236/"
       },
       {
         "name": "Riya Jain",
-        "imageUrl": "https://media.licdn.com/dms/image/C4E03AQFMEXk0JVia8g/profile-displayphoto-shrink_400_400/0/1641728731002?e=1684972800&v=beta&t=2EzLseGeyD7CEpY0BoBQs9UQC713ssjb8KApdobR9Qk",
+        "imageUrl": "/images/people/technical/riya.jpeg",
         "position": "Member",
         "link": "https://www.linkedin.com/in/jriyyya/"
       },
       {
         "name": "Spandan Barve",
-        "imageUrl": "https://media.licdn.com/dms/image/C4D03AQG1-GJ7bGHduA/profile-displayphoto-shrink_400_400/0/1662200911180?e=1684972800&v=beta&t=VJmRQYXZlRPNm77veDzfEf6A2HCQiAQgwvcAa1fvOhE",
+        "imageUrl": "/images/people/technical/spandan.jpeg",
         "position": "Member",
         "link": "https://www.linkedin.com/in/marsian83/"
       },
       {
         "name": "Khushi Sachan",
-        "imageUrl": "https://media.licdn.com/dms/image/D5603AQGLRwGvaQ86cA/profile-displayphoto-shrink_400_400/0/1674149800185?e=1684972800&v=beta&t=KnKoryqfN-2j0y_698tUHTqhrysgicNzVf5aVD27WzI",
+        "imageUrl": "/images/people/technical/khushi.jpeg",
         "position": "Member",
         "link": "https://www.linkedin.com/in/khushisachan/"
       },
       {
         "name": "Siddhi Agrawal",
-        "imageUrl": "https://media.licdn.com/dms/image/C5603AQE7QNg8GeW8lg/profile-displayphoto-shrink_400_400/0/1648214713220?e=1684972800&v=beta&t=HexegDSYxeW0JpxEwADxNSRD9aZY8ioJNhCt-bOGnM0",
+        "imageUrl": "/images/people/technical/siddhi.jpeg",
         "position": "Member",
         "link": "https://www.linkedin.com/in/siddhi-agrawal-8128a9235/"
       },
       {
         "name": "Abhinav Gupta",
-        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQEUa2SiFZKE1A/profile-displayphoto-shrink_800_800/0/1673957543413?e=1684972800&v=beta&t=WdvqO04oer1CkDeFRQnK_yu3rmqeWH4fTwn4VNz-zxI",
+        "imageUrl": "/images/people/technical/abhinav.jpeg",
         "position": "Member",
         "link": "https://www.linkedin.com/in/abhinav-gupta-30b494232/"
       }
@@ -101,8 +102,8 @@
   },
   {
     "id": 2,
-    "name": "SAC Welfare",
-    "description": "Ok",
+    "name": "SAC Cultural",
+    "description": "SAC Cultural is the Student Activity Council for Cultural Events at ABV-IIITM in Gwalior, India, with faculty coordinators Dr. Somesh Kumar and Dr. Arun Kumar. The council organizes a range of cultural activities throughout the academic year, including dance competitions, music concerts, and drama performances. SAC Cultural promotes cultural awareness and diversity among students, contributing to the vibrant campus life at ABV-IIITM. With the support and guidance of the faculty coordinators, students can participate in and enjoy a variety of cultural events and activities.",
     "faculty": [
       {
         "name": "Dr. Manoj Kumar Das",

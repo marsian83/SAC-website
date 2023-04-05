@@ -63,7 +63,7 @@ export default function TeamPage() {
                     <Link
                       to={faculty.link}
                       key={faculty.name}
-                      className="flex flex-col items-center"
+                      className="flex flex-col items-center hover:scale-110 transition-all ease-linear duration-300"
                     >
                       <img
                         src={faculty.imageUrl}
@@ -79,22 +79,30 @@ export default function TeamPage() {
                     </Link>
                   ))}
                 </div>
-                <div className="flex flex-wrap gap-x-32 justify-center py-10 p-page">
+                <div className="flex flex-wrap gap-x-32 gap-y-20 justify-center py-10 p-page">
                   {showingTeamData.people.map((person) => (
                     <Link
                       to={person.link}
                       key={person.name}
-                      className="flex flex-col items-center"
+                      className="flex flex-col items-center hover:scale-110 transition-all ease-linear duration-300"
                     >
                       <img
                         src={person.imageUrl}
                         alt={person.name}
                         className="aspect-square object-cover w-40 rounded-full border-2 border-front"
                       />
-                      <h5 className="font-semibold text-lg"> {person.name} </h5>
+                      <h5 className="font-semibold text-lg mt-2">
+                        {" "}
+                        {person.name}{" "}
+                      </h5>
                       <p className="text-front text-opacity-70">
                         {person.position}
                       </p>
+                      <hr className="border border-white  border-opacity-20 w-full mt-2" />
+                      <div className="flex flex-row gap-x-4 items-center mt-2">
+                        <img src="https://img.icons8.com/material-sharp/24/FFFFFF/new-post.png" />
+                        <img src="https://img.icons8.com/ios-filled/24/FFFFFF/linkedin.png" />
+                      </div>
                     </Link>
                   ))}
                 </div>

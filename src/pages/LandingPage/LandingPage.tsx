@@ -33,13 +33,13 @@ export default function LandingPage() {
       <Hero />
       <section className="p-page">
         <h1 className="text-center text-5xl font-bold">Director's Note</h1>
-        <div className="flex items-center my-8 gap-x-5">
+        <div className="flex items-center mt-8 gap-x-16 mobile:flex-col">
           <img
             src="https://www.iiitm.ac.in/images/demo/teachers/1650440085_Prof.-Sri-Niwas-Singh.jpg"
             alt="SNS"
-            className="rounded-full border-2 border-gold w-48 aspect-square"
+            className="rounded-full border-2 border-gold w-60 aspect-square"
           />
-          <p className="font-light text-xl">
+          <p className="font-light text-xl mobile:text-center mobile:mt-2">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
             perspiciatis ipsam rerum beatae, fugiat eligendi est consectetur
             repellendus quis nobis. Doloribus ut voluptatibus temporibus
@@ -47,11 +47,11 @@ export default function LandingPage() {
             Laboriosam perspiciatis ipsam rerum beatae, fugiat eligendi est
             consectetur repellendus quis nobis. Doloribus ut voluptatibus
             temporibus voluptatum! Lorem ipsum dolor sit amet consectetur
-            <p className="text-right p-2 italic">~ Prof. Sri Nivas Singh</p>
           </p>
         </div>
+            <p className="text-right italic text-xl mobile:mt-2">~ Prof. Sri Nivas Singh</p>
       </section>
-      <section className="p-page my-20 py-10 rounded-t-3xl bg-black">
+      <section className="p-page my-20 py-10 rounded-t-3xl">
         <h1 className="text-center font-bold text-5xl">Featured Events</h1>
         <div className="flex my-10 justify-between items-center">
           <button

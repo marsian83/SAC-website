@@ -27,20 +27,20 @@ export default function TeamPage() {
       <div className="h-20" />
       {teams ? (
         <>
-          <h1 className="text-secondary py-20 text-center font-semibold text-5xl">
+          <h1 className="text-secondary py-20 text-center font-semibold text-5xl mobile:text-4xl">
             The body of SAC at IIITM Gwalior has {teams.length} divisions
           </h1>
           <div className="flex flex-col items-center">
-            <div className="bg-secondary bg-opacity-50 flex gap-x-8 px-10 py-3 rounded-lg">
+            <div className="bg-secondary bg-opacity-50 flex gap-x-8 px-10 py-3 rounded-lg mobile:w-[90%] mobile:px-4">
               {teams.map((team) => (
                 <button
                   key={team.id}
                   onClick={() => {
                     setShowingTeam(team.id);
                   }}
-                  className={`text-xl ${
+                  className={`text-xl mobile:text-lg ${
                     team.id === showingTeam
-                      ? "text-secondary drop-shadow pointer-events-none saturate-150"
+                      ? "text-secondary drop-shadow pointer-events-none saturate-150 text"
                       : ""
                   }`}
                 >
@@ -54,7 +54,7 @@ export default function TeamPage() {
                   <h2 className="text-5xl font-semibold drop-shadow-lg italic">
                     {showingTeamData.name}
                   </h2>
-                  <p className="mt-8 text-xl text-center font-extralight px-12">
+                  <p className="mt-8 text-xl text-center font-extralight px-12 mobile:px-2">
                     {showingTeamData.description}
                   </p>
                 </div>

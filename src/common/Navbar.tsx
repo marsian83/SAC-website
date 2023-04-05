@@ -3,10 +3,6 @@ import { Link, NavLink } from "react-router-dom";
 
 const navLinks = [
   {
-    title: "About",
-    link: "/about",
-  },
-  {
     title: "Team",
     link: "/team",
   },
@@ -28,9 +24,9 @@ export default function Navbar() {
 
   return (
     <div
-      className={`fixed w-full flex flex-row justify-between pt-8 p-page z-[100] duration-500 ${
+      className={`fixed w-full flex flex-row justify-between pt-4 p-page z-[100] duration-500 ${
         navFixed
-          ? "backdrop-blur-lg pb-8 bg-black bg-opacity-30"
+          ? "backdrop-blur-lg pb-4 bg-black bg-opacity-30"
           : "pb-28 bg-transparent"
       }`}
       style={{ boxShadow: navFixed ? "0rem 0.5rem 1rem #00000083" : "" }}

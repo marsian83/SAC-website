@@ -20,95 +20,59 @@
         "name": "Kailash Kejriwal",
         "imageUrl": "/images/people/technical/kailash.jpeg",
         "position": "Secretary",
-        "email": "",
+        "email": "bcs_2020044@iiitm.ac.in",
         "link": "https://www.linkedin.com/in/kailash360/"
       },
       {
         "name": "Viral Verma",
         "imageUrl": "/images/people/technical/viral.jpeg",
         "position": "Joint Secretary",
+        "email": "imt_2021113@iiitm.ac.in",
         "link": "https://www.linkedin.com/in/viral-verma-5362b4236/"
       },
       {
         "name": "Riya Jain",
         "imageUrl": "/images/people/technical/riya.jpeg",
         "position": "Member",
+        "email": "img_2021050@iiitm.ac.in",
         "link": "https://www.linkedin.com/in/jriyyya/"
       },
       {
         "name": "Spandan Barve",
         "imageUrl": "/images/people/technical/spandan.jpeg",
         "position": "Member",
+        "email": "bcs_2021064@iiitm.ac.in",
         "link": "https://www.linkedin.com/in/marsian83/"
       },
       {
-        "name": "Khushi Sachan",
-        "imageUrl": "/images/people/technical/khushi.jpeg",
+        "name": "Khushi Sachan ",
+        "imageUrl": "/images/people/technical/khushi.jpg",
         "position": "Member",
-        "link": "https://www.linkedin.com/in/khushisachan/"
+        "email": "imt_2021052@iiitm.ac.in",
+        "link": "https:\/\/www.linkedin.com\/in\/khushisachan"
       },
       {
         "name": "Siddhi Agrawal",
         "imageUrl": "/images/people/technical/siddhi.jpeg",
         "position": "Member",
+        "email": "imt_2020099@iiitm.ac.in",
         "link": "https://www.linkedin.com/in/siddhi-agrawal-8128a9235/"
       },
       {
-        "name": "Abhinav Gupta",
-        "imageUrl": "/images/people/technical/abhinav.jpeg",
+        "name": "Narra Abhigna",
+        "imageUrl": "/images/people/technical/abhigna.jpg",
         "position": "Member",
-        "link": "https://www.linkedin.com/in/abhinav-gupta-30b494232/"
+        "email": "bcs_2021048@iiitm.ac.in",
+        "link": "linkedin.com\/in\/abhigna-narra-05873b231"
       }
     ],
     "events": [
-      0,
       1
     ]
   },
+  
   {
     "id": 1,
-    "name": "SAC Cultural",
-    "description": "SAC Cultural is the Student Activity Council for Cultural Events at ABV-IIITM in Gwalior, India, with faculty coordinators Dr. Somesh Kumar and Dr. Arun Kumar. The council organizes a range of cultural activities throughout the academic year, including dance competitions, music concerts, and drama performances. SAC Cultural promotes cultural awareness and diversity among students, contributing to the vibrant campus life at ABV-IIITM. With the support and guidance of the faculty coordinators, students can participate in and enjoy a variety of cultural events and activities.",
-    "faculty": [
-      {
-        "name": "Dr. Somesh Kumar",
-        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1562157064_IMG_20190703_092943681_HDR.jpg",
-        "link": "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Dr.Somesh"
-      },
-      {
-        "name": "Dr. Arun Kumar",
-        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1661250093_final%20pic.jpg",
-        "link": "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Dr.ArunKumar"
-      }
-    ],
-    "people": [
-      {
-        "name": "Spandan Barve",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPFHU_3arLI6xUF1NJsS5zUO_Voet3o6zcLjMLkXGuA&s",
-        "position": "president",
-        "link": "linkedin.com/marsian83"
-      },
-      {
-        "name": "Spandan Barve",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPFHU_3arLI6xUF1NJsS5zUO_Voet3o6zcLjMLkXGuA&s",
-        "position": "member",
-        "link": "linkedin.com/marsian83"
-      },
-      {
-        "name": "Spandan Barve",
-        "position": "fan",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPFHU_3arLI6xUF1NJsS5zUO_Voet3o6zcLjMLkXGuA&s",
-        "link": "linkedin.com/marsian83"
-      }
-    ],
-    "events": [
-      0,
-      1,
-      2
-    ]
-  },
-  {
-    "id": 2,
     "name": "SAC Welfare",
     "description": "Sac welfare?",
     "faculty": [
@@ -125,6 +89,34 @@
     ],
     "people": [
       {
+        "name": "Krishna Prasad Samudrala",
+        "imageUrl": "/images/people/welfare/krishna.JPG",
+        "position": "Secretary",
+        "email": "img_2019029@iiitm.ac.in",
+        "link": "https:\/\/www.linkedin.com\/in\/krishna-samudrala-\/"
+      },
+      {
+        "name": "Harsh Dalwadi",
+        "imageUrl": "/images/people/welfare/harsh.jpg",
+        "position": "Joint Secretary",
+        "email": "imt_2021026@iiitm.ac.in",
+        "link": "https:\/\/www.linkedin.com\/in\/harsh-d-1a4308228\/"
+      },
+      {
+        "name": "Mridul Gupta",
+        "imageUrl": "/images/people/welfare/mridul.jpg",
+        "position": "Member",
+        "email": "Imt_2021064@gmail.com",
+        "link": "https:\/\/www.linkedin.com\/in\/mridul-gupta-8ab06b196"
+      },
+      {
+        "name": "Aditya Kumar Jain ",
+        "imageUrl": "/images/people/welfare/aditiyaJain.jpg",
+        "position": "Member",
+        "email": "bcs_2021006@iiitm.ac.in",
+        "link": "https:\/\/www.linkedin.com\/in\/aditya-kumar-jain-584ba41b8"
+      },
+      {
         "name": "Ujjwal Jain",
         "imageUrl": "/images/people/welfare/ujjwal.jpg",
         "position": "Member",
@@ -132,21 +124,86 @@
         "link": "https:\/\/www.linkedin.com\/mwlite\/in\/ujjwal-jain-12a677237"
       },
       {
-        "name": "Spandan Barve",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPFHU_3arLI6xUF1NJsS5zUO_Voet3o6zcLjMLkXGuA&s",
-        "position": "member",
-        "link": "linkedin.com/marsian83"
+        "name": "Khumanshu Singh ",
+        "imageUrl": "/images/people/welfare/khumanshu.png",
+        "position": "Member",
+        "email": "bcs_2021036@iiitm.ac.in",
+        "link": "https:\/\/www.linkedin.com\/in\/khumanshusingh\/"
       },
       {
-        "name": "Spandan Barve",
-        "position": "fan",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPFHU_3arLI6xUF1NJsS5zUO_Voet3o6zcLjMLkXGuA&s",
-        "link": "linkedin.com/marsian83"
+        "name": "Sakshi Goyat",
+        "imageUrl": "/images/people/welfare/sakshi.jpeg",
+        "position": "Member",
+        "email": "bcs_2021059@iiitm.ac.in",
+        "link": "https:\/\/www.linkedin.com\/in\/sakshi-goyat\/"
+      },
+      {
+        "name": "Himanshu Gautam ",
+        "imageUrl": "/images/people/welfare/himanshu.jpg",
+        "position": "Member",
+        "email": "imt_2021044@iiitm.ac.in",
+        "link": "linkedin.com\/in\/himanshu-gautam-3881aa192\/"
       }
     ],
     "events": [
-      0,
       1
+    ]
+  },
+  {
+    "id": 2,
+    "name": "SAC Cultural",
+    "description": "SAC Cultural is the Student Activity Council for Cultural Events at ABV-IIITM in Gwalior, India, with faculty coordinators Dr. Somesh Kumar and Dr. Arun Kumar. The council organizes a range of cultural activities throughout the academic year, including dance competitions, music concerts, and drama performances. SAC Cultural promotes cultural awareness and diversity among students, contributing to the vibrant campus life at ABV-IIITM. With the support and guidance of the faculty coordinators, students can participate in and enjoy a variety of cultural events and activities.",
+    "faculty": [
+      {
+        "name": "Dr. Somesh Kumar",
+        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1562157064_IMG_20190703_092943681_HDR.jpg",
+        "link": "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Dr.Somesh"
+      },
+      {
+        "name": "Dr. Arun Kumar",
+        "imageUrl": "https://www.iiitm.ac.in/images/demo/teachers/1661250093_final%20pic.jpg",
+        "link": "https://www.iiitm.ac.in/index.php/en/component/splms/teacher/Dr.ArunKumar"
+      }
+    ],
+    "people": [
+      {
+        "name": "Parjanya",
+        "imageUrl": "/images/people/cultural/parjanya.jpg",
+        "position": "Vice-president",
+        "email": "Img_2021038@iiitm.ac.in",
+        "link": "https:\/\/www.linkedin.com\/in\/parjanya-singh-20836a22a"
+      },
+      {
+        "name": "Divyansh Pathak",
+        "imageUrl": "/images/people/cultural/divyansh.JPG",
+        "position": "Secretary",
+        "email": "bcs_2021024@iiitm.ac.in",
+        "link": "https:\/\/www.linkedin.com\/in\/divyansh-pathak-847623226\/"
+      },
+      {
+        "name": "Gaddam Swathi Reddy",
+        "imageUrl": "/images/people/cultural/swathi.jpg",
+        "position": "Member",
+        "email": "imt_2020033@iiitm.ac.in",
+        "link": "https:\/\/www.linkedin.com\/in\/swathi-reddy-491131232"
+      },
+      {
+        "name": "Karukuri Sreehitha Varma ",
+        "imageUrl": "/images/people/cultural/sreehitha.JPG",
+        "position": "Secretary",
+        "email": "bcs_2020047@iiitm.ac.in",
+        "link": "https:\/\/www.linkedin.com\/in\/sreehitha-karukuri-3a484121a\/"
+      },
+      {
+        "name": "Vinayak Sutar ",
+        "imageUrl": "/images/people/cultural/vinayak.jpg",
+        "position": "Member",
+        "email": "imt_2021112@iiitm.ac.in",
+        "link": "https:\/\/www.linkedin.com\/in\/vinayak-sutar-39a574224"
+      }
+    ],
+    "events": [
+      1,2
     ]
   },
   {
@@ -167,27 +224,36 @@
     ],
     "people": [
       {
-        "name": "Spandan Barve",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPFHU_3arLI6xUF1NJsS5zUO_Voet3o6zcLjMLkXGuA&s",
-        "position": "president",
-        "link": "linkedin.com/marsian83"
+        "name": "Ansh Harwani",
+        "imageUrl": "/images/people/sports/ansh.jpeg",
+        "position": "Member",
+        "email": "img_2021010@iiitm.ac.in",
+        "link": "https:\/\/www.linkedin.com\/in\/ansh-harwani"
       },
       {
-        "name": "Spandan Barve",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPFHU_3arLI6xUF1NJsS5zUO_Voet3o6zcLjMLkXGuA&s",
-        "position": "member",
-        "link": "linkedin.com/marsian83"
+        "name": "Siddharth Jaiswal",
+        "imageUrl": "/images/people/sports/sid.jpeg",
+        "position": "Member",
+        "email": "Img_2021059@gmail.com",
+        "link": "https:\/\/www.linkedin.com\/in\/siddharth-jaiswal-138983220"
       },
       {
-        "name": "Spandan Barve",
-        "position": "fan",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPFHU_3arLI6xUF1NJsS5zUO_Voet3o6zcLjMLkXGuA&s",
-        "link": "linkedin.com/marsian83"
+        "name": "Kadavath Tarun Nayak ",
+        "imageUrl": "/images/people/sports/tarun.jpg",
+        "position": "Member",
+        "email": "bcs_2020043@iiitm.ac.in",
+        "link": "https:\/\/www.linkedin.com\/in\/tarun-nayak-48b445217\/"
+      },
+      {
+        "name": "Vaishnavi P Kummur",
+        "imageUrl": "/images/people/sports/vaishnavi.jpg",
+        "position": "Member",
+        "email": "imt_2020109@iiitm.ac.in",
+        "link": "https:\/\/www.linkedin.com\/in\/vaishnavi-p-kummur-567675215"
       }
     ],
     "events": [
-      0,
-      1
+      0
     ]
   }
 ]

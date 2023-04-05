@@ -1,19 +1,20 @@
 [
   {
     "id": 0,
-    "title": "Infotsav",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam perspiciatis ipsam rerum beatae, fugiat eligendi est consectetur repellendus quis nobis. Doloribus ut voluptatibus temporibusvolupt",
-    "imageUrl": "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg",
+    "title": "Urja'23",
+    "description": "This is an intra-institute. Spread over three days during February/ March, learners are encouraged to participate in this event at least in the form of a spectator. Athletes are always inspired by the presence of a team of supporters. Urja not only tests one’s physical abilities in track and field events but also offers an opportunity for creating a familial bond among different members of learners.",
+    "imageUrl": "/images/events/urja/urja.png",
     "gallery": [
-      "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg",
-      "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg",
-      "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg"
-    ]
+      "/images/events/urja/3days.png",
+      "/images/events/urja/4days.png",
+      "/images/events/urja/5days.png"
+    ],
+    "dates":"7th April - 9th April"
   },
   {
     "id": 1,
-    "title": "technoevent",
-    "description": "Lorem ipsum dolor sit amet consec aldn ad lasjd ljasnd as dlajsn lasndlnljas lal asd as dasj dandan nalndand naldn adnljan dtetur adipisicing elit. Laboriosam perspiciatis ipsam rerum beatae, fugiat eligendi est consectetur repellendus quis nobis. Doloribus ut voluptatibus temporibusvoluptatum!",
+    "title": "Infotsav",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam perspiciatis ipsam rerum beatae, fugiat eligendi est consectetur repellendus quis nobis. Doloribus ut voluptatibus temporibusvolupt",
     "imageUrl": "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg",
     "gallery": [
       "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg",

@@ -63,7 +63,7 @@ export default function TeamPage() {
                     <Link
                       to={faculty.link}
                       key={faculty.name}
-                      className="flex flex-col items-center hover:scale-110 transition-all ease-linear duration-300"
+                      className="flex flex-col items-center"
                     >
                       <img
                         src={faculty.imageUrl}
@@ -79,13 +79,11 @@ export default function TeamPage() {
                     </Link>
                   ))}
                 </div>
-                <hr className="border border-white  border-opacity-20 w-[90%] flex self-center " />
                 <div className="flex flex-wrap gap-x-32 gap-y-20 justify-center py-4 p-page mobile:gap-x-16">
                   {showingTeamData.people.map((person) => (
-                    <Link
-                      to={person.link}
+                    <div
                       key={person.name}
-                      className="flex flex-col items-center hover:scale-110 transition-all ease-linear duration-300"
+                      className="flex flex-col items-center"
                     >
                       <img
                         src={person.imageUrl}
@@ -101,10 +99,18 @@ export default function TeamPage() {
                       </p>
                       <hr className="border border-white  border-opacity-20 w-full mt-2" />
                       <div className="flex flex-row gap-x-4 items-center mt-2">
-                        <img src="https://img.icons8.com/material-sharp/24/FFFFFF/new-post.png" />
-                        <img src="https://img.icons8.com/ios-filled/24/FFFFFF/linkedin.png" />
+                        <img
+                          src="https://img.icons8.com/material-sharp/24/FFFFFF/new-post.png"
+                          className="cursor-pointer"
+                          onClick={() => window.open(`mailto:${person.email}`, "_blank")}
+                        />
+                        <img
+                          src="https://img.icons8.com/ios-filled/24/FFFFFF/linkedin.png"
+                          className="cursor-pointer"
+                          onClick={() => window.open(person.link, "_blank")}
+                        />
                       </div>
-                    </Link>
+                    </div>
                   ))}
                 </div>
                 <h1 className="text-center pt-3 font-semibold text-5xl text-secondary">

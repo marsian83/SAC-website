@@ -12,6 +12,7 @@ export interface Team {
     imageUrl: string;
     position: string;
     link: string;
+    email: string;
   }[];
   events: number[];
 }

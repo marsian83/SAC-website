@@ -60,7 +60,10 @@
         "link": "https://www.linkedin.com/in/abhinav-gupta-30b494232/"
       }
     ],
-    "events": [0, 1]
+    "events": [
+      0,
+      1
+    ]
   },
   {
     "id": 1,
@@ -98,12 +101,16 @@
         "link": "linkedin.com/marsian83"
       }
     ],
-    "events": [0, 1, 2]
+    "events": [
+      0,
+      1,
+      2
+    ]
   },
   {
     "id": 2,
-    "name": "SAC Cultural",
-    "description": "SAC Cultural is the Student Activity Council for Cultural Events at ABV-IIITM in Gwalior, India, with faculty coordinators Dr. Somesh Kumar and Dr. Arun Kumar. The council organizes a range of cultural activities throughout the academic year, including dance competitions, music concerts, and drama performances. SAC Cultural promotes cultural awareness and diversity among students, contributing to the vibrant campus life at ABV-IIITM. With the support and guidance of the faculty coordinators, students can participate in and enjoy a variety of cultural events and activities.",
+    "name": "SAC Welfare",
+    "description": "Sac welfare?",
     "faculty": [
       {
         "name": "Dr. Manoj Kumar Das",
@@ -118,10 +125,11 @@
     ],
     "people": [
       {
-        "name": "Spandan Barve",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyPFHU_3arLI6xUF1NJsS5zUO_Voet3o6zcLjMLkXGuA&s",
-        "position": "president",
-        "link": "linkedin.com/marsian83"
+        "name": "Ujjwal Jain",
+        "imageUrl": "/images/people/welfare/ujjwal.jpg",
+        "position": "Member",
+        "email": "imt_2021105@iiitm.ac.in",
+        "link": "https:\/\/www.linkedin.com\/mwlite\/in\/ujjwal-jain-12a677237"
       },
       {
         "name": "Spandan Barve",
@@ -136,7 +144,10 @@
         "link": "linkedin.com/marsian83"
       }
     ],
-    "events": [0, 1]
+    "events": [
+      0,
+      1
+    ]
   },
   {
     "id": 3,
@@ -174,6 +185,9 @@
         "link": "linkedin.com/marsian83"
       }
     ],
-    "events": [0, 1]
+    "events": [
+      0,
+      1
+    ]
   }
 ]

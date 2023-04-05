@@ -78,12 +78,12 @@ export default function LandingPage() {
                     <Link
                       to={`/events/${event.id}`}
                       key={event.id}
-                      className="group w-full flex justify-center rounded-4xl"
+                      className="group w-full flex justify-center rounded-4xl mb-1"
                     >
                       <div
-                        className="w-11/12 h-[75vh] relative bg-cover bg-center rounded-2xl shadow shadow-secondary flex flex-col justify-between items-center"
+                        className="w-11/12 h-[75vh] mobile:h-[35vh] relative bg-cover bg-center rounded-2xl shadow shadow-secondary flex flex-col justify-between items-center"
                         style={{
-                          background: `linear-gradient(to bottom, transparent, #00000099), url(${event.imageUrl})`,
+                          background: `linear-gradient(to bottom, transparent, #00000099), url(${event.imageUrl})`, backgroundPosition:'center'
                         }}
                       >
                         <div />

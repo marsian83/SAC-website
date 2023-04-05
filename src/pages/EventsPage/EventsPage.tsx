@@ -15,9 +15,9 @@ export default function EventsPage() {
   return events ? (
     <>
       <div className="h-32" />
-      <div className="p-page flex flex-wrap justify-between">
+      <div className="p-page flex flex-wrap justify-between mobile:flex-col mobile:items-center mobile:gap-y-16">
         {events.map((event) => (
-          <div className="w-[30%] rounded-2xl overflow-hidden flex flex-col items-center justify-between bg-secondary pb-5 bg-opacity-60">
+          <div className="w-[30%] rounded-2xl overflow-hidden flex flex-col items-center justify-between bg-secondary pb-5 bg-opacity-60 mobile:w-[90%]">
             <div className="">
               <img
                 src={event.imageUrl}

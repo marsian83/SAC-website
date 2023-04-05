@@ -58,7 +58,7 @@ export default function TeamPage() {
                     {showingTeamData.description}
                   </p>
                 </div>
-                <div className="flex justify-center p-page gap-x-20">
+                <div className="flex justify-center p-page gap-x-20 mobile:gap-x-8">
                   {showingTeamData.faculty.map((faculty) => (
                     <Link
                       to={faculty.link}
@@ -69,7 +69,7 @@ export default function TeamPage() {
                         src={faculty.imageUrl}
                         className="rounded-full border-2 border-gold w-44 aspect-square object-cover"
                       />
-                      <h5 className="font-semibold text-lg">
+                      <h5 className="font-semibold text-lg mobile:mt-2">
                         {" "}
                         {faculty.name}{" "}
                       </h5>
@@ -79,7 +79,8 @@ export default function TeamPage() {
                     </Link>
                   ))}
                 </div>
-                <div className="flex flex-wrap gap-x-32 gap-y-20 justify-center py-10 p-page">
+                <hr className="border border-white  border-opacity-20 w-[90%] flex self-center " />
+                <div className="flex flex-wrap gap-x-32 gap-y-20 justify-center py-4 p-page mobile:gap-x-16">
                   {showingTeamData.people.map((person) => (
                     <Link
                       to={person.link}
@@ -89,7 +90,7 @@ export default function TeamPage() {
                       <img
                         src={person.imageUrl}
                         alt={person.name}
-                        className="aspect-square object-cover w-40 rounded-full border-2 border-front"
+                        className="aspect-square object-cover w-40 rounded-full border-2 border-front mobile:w-32"
                       />
                       <h5 className="font-semibold text-lg mt-2">
                         {" "}
@@ -106,10 +107,10 @@ export default function TeamPage() {
                     </Link>
                   ))}
                 </div>
-                <h1 className="text-center pt-3 pb-6 font-semibold text-5xl text-secondary">
+                <h1 className="text-center pt-3 font-semibold text-5xl text-secondary">
                   Events
                 </h1>
-                <div className="flex-wrap p-page flex gap-x-5 justify-center">
+                <div className="flex-wrap p-page flex gap-x-5 justify-center mobile:flex-col mobile:items-center mobile:gap-y-8">
                   {events &&
                     events
                       .filter((event) =>
@@ -119,7 +120,7 @@ export default function TeamPage() {
                         <Link
                           to={`/events/${event.id}`}
                           key={event.id}
-                          className="w-[32%] aspect-video rounded-2xl gap-y-8 shadow shadow-secondary bg-center bg-cover text-center flex flex-col items-center justify-between"
+                          className="w-[32%] aspect-video rounded-2xl gap-y-8 shadow shadow-secondary bg-center bg-cover text-center flex flex-col items-center justify-between mobile:w-[85%]"
                           style={{
                             backgroundImage: `linear-gradient(to bottom, transparent, #000000d5), url('${event.imageUrl}')`,
                           }}

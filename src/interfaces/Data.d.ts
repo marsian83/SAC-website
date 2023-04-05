@@ -23,4 +23,5 @@ export interface Event {
   description: string;
   imageUrl: string;
   gallery: string[];
+  dates: string;
 }

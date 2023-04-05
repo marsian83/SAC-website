@@ -9,7 +9,7 @@
       "/images/events/urja/4days.png",
       "/images/events/urja/5days.png"
     ],
-    "dates":"7th April - 9th April"
+    "dates":"7th April 2023 - 9th April 2023"
   },
   {
     "id": 1,
@@ -20,17 +20,20 @@
       "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg",
       "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg",
       "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg"
-    ]
+    ],
+    
+    "dates":"xx xxxx 2018 - xx xxxx 2018 "
   },
   {
     "id": 2,
-    "title": "spiasdadn",
+    "title": "Sample Event",
     "description": "Lorem ipsum dolor sit am Doloribus ut voluptatibus temporibusvoluptatum! Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam perspiciatis ipsam rerum beatae, fugiat eligendi",
-    "imageUrl": "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg",
+    "imageUrl": "https://imgs.search.brave.com/SKKHigyYyAMnyqC5UVoZ4PjSKLKQz675BGHt5EtheGo/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5H/T1RwaktGY2ZRenBH/UXZhZFdScjBRSGFF/SyZwaWQ9QXBp",
     "gallery": [
       "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg",
       "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg",
       "https://i.ytimg.com/vi/nhBUY1t0-FM/maxresdefault.jpg"
-    ]
+    ],
+    "dates": "31st Feb 2002 - 39th Feb 2001"
   }
 ]
